@@ -1,0 +1,4 @@
+teleram:
+  api_token: 'your_token'
+weather:
+  api_token: 'your_token'
