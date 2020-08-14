@@ -1,2 +1,12 @@
 # smart_weather_bot
-A simple telegram bot for checking the weather
+Basic functionality of weather bot
+TODO:
+- Add more logic
+- Docker
+- Deploy
+- Cd
+- Tests
+- Ci
+- Docs
+- State Storage -> Mongo
+- Cache -> Redis
